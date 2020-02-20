@@ -35,6 +35,10 @@ Here are some of the tools I've done:
 * **Exporter Tool** to export and ensure all animations are compliant with our pipeline by applying metadata such as a production statuses.
 * **Reference Tool** (like in [Maya](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Maya-ManagingScenes/files/GUID-238914C9-4129-454C-99D7-B8C57AF423DB-htm.html)), linked to Perforce, to load elements (characters, props...) in the animator's working scene.
 * **Sequence Tool** to retrieve UE4 cameras within Motionbuilder.
+<video width="100%" height="100%" controls="controls">
+  <source type="video/webm" src="/assets/images/projects/captainspirit/pt_cam.webm"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
 * **Quick Rig Tool** to quickly generate rigs for animated props.
 * **Scene Checker** to make sure everything's fine before exporting the animations.
 * **Video Reference Tool** to automatically retrieve video references for the currently edited animations.
