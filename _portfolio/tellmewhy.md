@@ -33,7 +33,7 @@ For this project, we decided to change the animation pipeline and use Maya inste
 So, we ported everything [I did](https://guillaumepastor.com/portfolio/captainspirit/#what-i-did-on-this-project) to Maya and provided a new set of tools for the animators to work in the best possible conditions.
 
 {: .text-justify}
-I also work on one major step to improve the company's pipeline : **GAIA** aka **"The Derusher"**.
+I also work on one major step to improve the Dontnod's asset pipeline : **GAIA** aka **"The Derusher"**.
 
 {: .text-justify}
 **"The Derusher"** aims to provide a user friendly way to list and create assets within the engine with their sources (meshes, textures, materials) with the right naming and the right location using **3DSMax**, **Maya**, **Unreal Engine Python**. The goal is to prevent errors from artists when creating and naming assets in the editor and have a better control on how are created these assets.
