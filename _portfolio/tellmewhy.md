@@ -39,7 +39,7 @@ I also work on one major step to improve the Dontnod's asset pipeline : **GAIA**
 **"The Derusher"** aims to provide a user friendly way to list and create assets within the engine with their sources (meshes, textures, materials) with the right naming and the right location using **3DSMax**, **Maya**, **Unreal Engine Python**. The goal is to prevent errors from artists when creating and naming assets in the editor and have a better control on how are created these assets.
 
 {: .text-justify}
-In fact were was different derushers, one for each job category:
+In fact were was different derushers for several departments:
 
 * **Props Derusher** : List the meshes needed for the game and create the uassets (Static/Skeletal Meshes, Materials, Textures) and the associated source files within perforce (.max, .ma, .fbx, .png, .psd, .sbs...)
 * **Characters Derusher** : Exactly like the Props derusher but taking into account some character department specificities
